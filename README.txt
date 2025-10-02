@@ -20,6 +20,7 @@
 
  MDN Web Docs – HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML
  MDN Web Docs – CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS
- W3Schools – HTML Tutorial: https://www.w3schools.com/html/
- W3Schools – CSS Tutorial: https://www.w3schools.com/css/
+ Youtube - https://youtu.be/PKzLrZCbxBY?si=k9bwWga2ZbZ1249l
+ Youtube - https://youtu.be/n_Etdr7Dbjs?si=ZCuAFqDMMMdgKmkg
+ Youtube - https://youtu.be/YRolwGSte9g?si=yBmio5LC7CHMo62Y
  YouTube (interface original usada como base de design)
