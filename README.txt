@@ -24,3 +24,8 @@
  Youtube - https://youtu.be/n_Etdr7Dbjs?si=ZCuAFqDMMMdgKmkg
  Youtube - https://youtu.be/YRolwGSte9g?si=yBmio5LC7CHMo62Y
  YouTube (interface original usada como base de design)
+
+Autores 
+Douglas Phaney 
+Lidielma Maria
+Rafael santana
